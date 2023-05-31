@@ -15,10 +15,13 @@ const number_cardinality = (num) => {
     }else{
         cadena += 'por ahi no es master'
     }
-    console.log(cadena);
+   // console.log(cadena);
     return cadena
 }
 
+
+
+number_cardinality(9)
 
 
 module.export = number_cardinality
