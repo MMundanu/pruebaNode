@@ -116,4 +116,4 @@ const range_vision = (num) => {
 
 }
 
-range_vision(2345)
+module.export = range_vision()

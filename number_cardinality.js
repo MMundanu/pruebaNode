@@ -21,7 +21,7 @@ const number_cardinality = (num) => {
 
 
 
-number_cardinality(9)
+
 
 
 module.export = number_cardinality
